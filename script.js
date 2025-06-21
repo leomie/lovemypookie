@@ -1,12 +1,14 @@
 const quotes = [
   "You are all I can think of no matter what I do.",
   "You are worthy of all the love and happiness in the world.",
-  "If the world refuses to see your worth, I will always remind you.",
+  "If the world refuses to see your worth, I will always remind you of it.",
   "I will always be the shoulder you can lean on.",
   "Let's share our dreams and make them a reality together.",
   "Our past may not have been perfect, but our future can be beautiful.",
   "You are the reason I believe in love once again.",
   "Your imperfections are what make you perfect to me.",
+  "For a future in which we can be together, you, me and a place we can call our home.",
+  "Every moment with you is a treasure I wouldn't change for anything.",
 ];
 
 const quoteBox = document.getElementById("quoteBox");
